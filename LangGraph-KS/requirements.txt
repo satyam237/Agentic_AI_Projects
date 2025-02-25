@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchainhub
+langchain_community
+ipykernal
+langchain_groq
